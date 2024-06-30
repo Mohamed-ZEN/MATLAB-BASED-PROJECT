@@ -1,3 +1,4 @@
 This is Matlab based simulation project.
 This project consist of Simulation & Hardware parts.
+
 Abstract—The concept of Smart Home Energy Management System using Internet of things (IoT) has emerged as a potential solution to reduce energy consumption and support sustainable living. The system incorporates real-time monitoring and control of energy usage, allowing house owners to optimize their en- ergy consumption while minimizing wastage. Simulation of the proposed system which is dedicated to energy management with load demand response and energy optimization using Genetic Algorithms (GA) has been done in the MATLAB programming environment. The hardware implementation of the real.time energy monitoring system using IoT is also done. Optimized size of the smart home is obtained using GA through simulation and effective monitoring is done through IoT.
